@@ -7,7 +7,8 @@ Claude Code skills based on [The Minimalist Entrepreneur](https://www.minimalist
 Install as a Claude Code plugin:
 
 ```
-/plugin install slavingia/skills
+/plugin marketplace add slavingia/skills
+/plugin install minimalist-entrepreneur@minimalist-entrepreneur
 ```
 
 ## Skills
